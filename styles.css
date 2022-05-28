@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Grape+Nuts&display=swap');
+body{
+    font-family: 'Grape Nuts',cursive;
+    margin: 0px;
+    text-align: center;
+}
+.top-container{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+.middle-container{
+
+}
+.bottom-container{
+      background-color: #66BFBF;
+      margin-top: 20px;
+}
+h1{
+    margin-top: 50px;
+    font-size: 5.62rem;
+    color: #66BFBF;
+    line-height: 2;
+}
+h2{
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+h3{
+    color: #66BFBF;
+}
+hr{
+    border :dotted 6px;
+    color:#EAF6F6;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px  auto;
+}
+a{
+    color: #66BFBF;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.profile-img{
+      width: 15%;
+      border-radius: 48%;
+}
+.skill-img{
+    width: 25%;
+    border-radius: 48%;
+}
+.skill-two-img{
+    width: 25%;
+    border-radius: 48%;
+    float:right;
+    margin-left: 30px;
+}
+.skill-three-img{
+    width:30%;
+    border-radius: 30%;
+}
+.skill-row{
+    margin: 100px auto 100px auto ;
+    width:50%;
+    text-align : left;
+    line-height: 2;
+}
+.footer-link{
+    color:#EAF6F6;
+    margin: 20px;
+}
+.footer-link:hover{
+    color:grey;
+}
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    color: #66BFBF;
+    background: grey;
+    border-radius: 8;
+    padding: 10px 20px 10px 20px;
+    text-align: center;
+    text-decoration: dashed;
+  }
+  .btn:hover{
+      color:#30e3cb;
+  }

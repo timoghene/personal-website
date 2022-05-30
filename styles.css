@@ -8,6 +8,7 @@ body{
     background-color: #E4F9F5;
     position: relative;
     padding-top: 100px;
+    width:100vw;
 }
 .middle-container{
 
@@ -78,6 +79,7 @@ a{
 .footer-link{
     color:#EAF6F6;
     margin: 20px;
+    margin:100vw;
 }
 .footer-link:hover{
     color:grey;
